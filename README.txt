@@ -8,7 +8,7 @@ RU:
 
 5. Пользуйтесь.
 
--------
+------------
 
 EN:
 Instructions:
@@ -19,3 +19,4 @@ Instructions:
 4. Run the "Auto Key Presser.py" file.
 
 5. Enjoy.
+
